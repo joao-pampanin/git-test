@@ -1,4 +1,4 @@
 # git-test
 
-Outro texto
-Texto da branch alterard
+Meu texto 1
+Meu texto 2
